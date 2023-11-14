@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding-top: 100px;
+}
+
+form {
+    padding: 20px;
+}
+
+input, button {
+    padding: 4px 16px;
+    font-size: 16px;
+    text-align: left;
+}
+
+button {
+    font-weight: bold;
+}
+
+.feito {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: disc;
+}
